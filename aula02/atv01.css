@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.alfa{
+    background-color: red;
+    height: 100px;
+    height: 100px;
+padding: 20px;
+}
+.amor{
+    background-color: blue;
+    height: 100px;
+    height: 100px;
+    
+    
+}
+.cor{
+    background-color: yellow;
+    height: 1000px;
+    height: 100px;
+}
+.avi{display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    height: 100px;
+    margin-left: 300px;
+    width: 590px;
+
+
+}

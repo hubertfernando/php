@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    background-color: blue;
+    
+
+}
+.stilo{
+    background-color: aqua;
+    
+}
+.alfa{
+    background-color: rgb(35, 92, 92);
+    height: 30px;
+    
+}
+p{
+    background-color: blueviolet;
+    
+}
+.alfa p{
+    background-color: burlywood;
+}
+.alfa #txt{
+    font-size: 20px;
+}
+body{
+    text-align: center;
+}
+
