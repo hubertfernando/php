@@ -6,7 +6,7 @@
     <title>exp1</title>
 </head>
 <body>
-    <h1>teste de alteracao do githug</h1>
+    <h1>teste de alteracao do githugs</h1>
     <?php
     echo"teste de php"
     ?>
